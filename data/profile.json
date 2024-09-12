@@ -13,7 +13,11 @@
       },
       {
         "name":"Fastapi",
-        "logo":"https://raw.githubusercontent.com/MieleSantos/js-developer-portfolio/main/assets/img/icons/fastapi.svg"
+        "logo":"https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/fastapi.png"
+      },
+      {
+        "name":"Django",
+        "logo":"https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/django.png"
       },
       {
         "name": "Docker",
