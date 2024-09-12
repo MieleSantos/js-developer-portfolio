@@ -16,6 +16,10 @@
         "logo": "https://raw.githubusercontent.com/MieleSantos/js-developer-portfolio/main/data/imgs/fastapi.png"
       },
       {
+        "name": "Django",
+        "logo": "https://raw.githubusercontent.com/MieleSantos/js-developer-portfolio/main/data/imgs/django.png"
+      },
+      {
         "name": "Docker",
         "logo": "https://raw.githubusercontent.com/MieleSantos/js-developer-portfolio/main/data/imgs/docker.png"
       },
