@@ -12,6 +12,10 @@
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/python.png"
       },
       {
+        "name":"Fastapi",
+        "logo":"https://devicon-website.vercel.app/api/fastapi/original.svg"
+      },
+      {
         "name": "Docker",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/docker.png"
       },
